@@ -8,7 +8,7 @@ Một file duy nhất: index.html. Không cần cài đặt, không cần lập 
 Đặt tên (ví dụ hoc-ngoai-ngu), chọn Public (Pages miễn phí cần repo Public), bấm Create repository.
 Bấm uploading an existing file, kéo index.html vào, bấm Commit changes.
 Vào Settings → Pages. Ở mục Build and deployment: Source = Deploy from a branch, Branch = main, thư mục /(root), bấm Save.
-Đợi 1–2 phút. Địa chỉ trang sẽ là https://TÊN-GITHUB.github.io/hoc-ngoai-ngu/.
+Đợi 1–2 phút. Địa chỉ trang sẽ là https://TÊN-GITHUB.github.io/languages_learning/.
 Trên iPad: mở bằng Safari → nút Chia sẻ → Thêm vào Màn hình chính để dùng như app.
 
 Lưu ý: repo Public nghĩa là ai có link cũng xem được trang. Dữ liệu học của bạn KHÔNG nằm trong repo mà nằm trong trình duyệt của bạn.
